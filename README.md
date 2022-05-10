@@ -1,3 +1,5 @@
+List of alias matchers in RSpec 3
+
 This list is based on [aliases_spec.rb](https://raw.githubusercontent.com/rspec/rspec-expectations/6f975b08c996b1014654334229d5d4b020055690/spec/rspec/matchers/aliases_spec.rb).
 
 You can see also [Module: RSpec::Matchers API](http://rubydoc.info/github/rspec/rspec-expectations/RSpec/Matchers).
